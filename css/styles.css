@@ -7201,9 +7201,15 @@ h3 {
     color: #000000 !important;
     font-size: 2rem;
     display: flex;        /* arrange icons in a row */
-    gap: 4rem;            /* space between icons */
+    gap: 1rem;            /* space between icons */
     justify-content: center; /* center the icons horizontally */
     align-items: center;}     /* align them vertically */
+    .divider-custom .divider-custom-icon .icon-line {
+      width: 1.5rem;       /* line length */
+      height: 0.25rem;     /* line thickness */
+      background-color: currentColor; /* matches icon color */
+      border-radius: 1rem;
+    }
   .divider-custom.divider-light .divider-custom-line {
     background-color: #fff; }
   .divider-custom.divider-light .divider-custom-icon {
