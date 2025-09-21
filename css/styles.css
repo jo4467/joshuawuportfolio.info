@@ -7201,7 +7201,7 @@ h3 {
     color: #000000 !important;
     font-size: 2rem;
     display: flex;        /* arrange icons in a row */
-    gap: 1rem;            /* space between icons */
+    gap: 3rem;            /* space between icons */
     justify-content: center; /* center the icons horizontally */
     align-items: center;}     /* align them vertically */
   .divider-custom.divider-light .divider-custom-line {
