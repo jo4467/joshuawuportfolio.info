@@ -7419,6 +7419,14 @@ form .row:first-child .floating-label-form-group {
   color: #fff;
   border-radius: 100%; }
 
+.icon-download {
+  border: none;
+  background: none;
+  box-shadow:none;
+}
+.icon-download i {
+  font-size: 3rem;
+}
 .navbar-brand img {
   max-width: 13.5rem; }
 
