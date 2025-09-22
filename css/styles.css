@@ -7420,12 +7420,12 @@ form .row:first-child .floating-label-form-group {
   border-radius: 100%; }
 
 .icon-download {
-  border: none;
-  background: none;
-  box-shadow:none;
+  border: none !important;
+  background: none !important;
+  box-shadow:none !important;
 }
 .icon-download i {
-  font-size: 5rem;
+  font-size: 5rem !important;
 }
 .navbar-brand img {
   max-width: 13.5rem; }
