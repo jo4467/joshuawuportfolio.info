@@ -56,7 +56,6 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  padding-top: 72px;
   background-color: #fff; }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -7397,7 +7396,7 @@ form .row:first-child .floating-label-form-group {
   height: 2rem; }
 
 .portfolio {
-  padding-top: 6rem;
+  padding-top: 9rem;
   padding-bottom: 4.5rem; }
 
 .page-section-heading {
